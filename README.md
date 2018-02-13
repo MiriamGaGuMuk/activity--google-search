@@ -33,4 +33,4 @@ Space between input and buttons: 25px
 
 ## Final Result
 
-![link to google search](google-search.jpg)
+![link to google search](google-search.png)
